@@ -17,7 +17,8 @@ const modelConfig = {
   },
   GV80: {
     label: "GV80",
-    status: "planned"
+    reportPrefix: "kcar-mobile-gv80-all-",
+    status: "ready"
   },
   GV70: {
     label: "GV70",

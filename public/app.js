@@ -8,7 +8,6 @@ const candidateList = document.querySelector("#candidateList");
 const failureSummary = document.querySelector("#failureSummary");
 
 const plannedModels = {
-  GV80: "GV80 검색은 아직 연결되지 않았습니다.",
   GV70: "GV70 검색은 아직 연결되지 않았습니다."
 };
 
@@ -79,7 +78,7 @@ async function fetchJson(url) {
 }
 
 async function loadSearchData(model) {
-  if (model !== "G80") {
+  if (plannedModels[model]) {
     return {
       model,
       status: "planned",

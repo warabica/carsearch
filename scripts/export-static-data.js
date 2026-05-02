@@ -5,6 +5,11 @@ const rootDir = process.cwd();
 const reportsDir = path.join(rootDir, "reports");
 const outputDir = path.join(rootDir, "public", "data");
 
+const models = [
+  { id: "G80", prefix: "kcar-mobile-g80-rg3-all-" },
+  { id: "GV80", prefix: "kcar-mobile-gv80-all-" }
+];
+
 function summarizeRows(rows) {
   const failures = {};
   for (const row of rows) {
@@ -42,14 +47,14 @@ async function latestReport(prefix) {
     .reverse()[0];
 }
 
-async function main() {
-  const reportFile = await latestReport("kcar-mobile-g80-rg3-all-");
-  if (!reportFile) throw new Error("No G80 report found. Run npm.cmd run search first.");
+async function exportModel(model) {
+  const reportFile = await latestReport(model.prefix);
+  if (!reportFile) throw new Error(`No ${model.id} report found. Run npm.cmd run search -- --model "${model.id}" first.`);
 
   const rows = JSON.parse(await readFile(path.join(reportsDir, reportFile), "utf8"));
   const candidates = rows.filter((row) => row.passed).map(toPublicCar);
   const payload = {
-    model: "G80",
+    model: model.id,
     status: "ready",
     reportFile,
     scanned: rows.length,
@@ -59,9 +64,15 @@ async function main() {
     failureSummary: summarizeRows(rows)
   };
 
+  await writeFile(path.join(outputDir, `${model.id}.json`), `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+  console.log(`Exported public/data/${model.id}.json from ${reportFile}`);
+}
+
+async function main() {
   await mkdir(outputDir, { recursive: true });
-  await writeFile(path.join(outputDir, "G80.json"), `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-  console.log(`Exported public/data/G80.json from ${reportFile}`);
+  for (const model of models) {
+    await exportModel(model);
+  }
 }
 
 main().catch((error) => {

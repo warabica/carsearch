@@ -1,10 +1,10 @@
-# K Car Mobile G80 Search
+# K Car Mobile Search
 
-K Car 모바일 사이트 기준으로 `g80 (RG3)`를 검색하고, 통합검색 화면의 `K Car 직영차 더보기` 링크가 가리키는 직영차 목록을 `높은 가격순`으로 조회한 뒤, 첫번째 리스트 페이지의 차량 상세 이력을 검사하는 도구입니다.
+K Car 모바일 사이트 기준으로 `G80`, `GV80`를 검색하고, 통합검색 화면의 `K Car 직영차 더보기` 링크가 가리키는 직영차 목록을 `높은 가격순`으로 조회한 뒤, 첫번째 리스트 페이지의 차량 상세 이력을 검사하는 도구입니다.
 
 ## 필터 조건
 
-- 검색어: `g80 (RG3)`
+- 검색어: `g80 (RG3)`, `GV80`
 - 목록: 모바일 `K Car 직영차 더보기`
 - 정렬: 높은 가격순
 - 범위: 첫번째 리스트 페이지, 기본 최대 30대
@@ -19,6 +19,8 @@ K Car 모바일 사이트 기준으로 `g80 (RG3)`를 검색하고, 통합검색
 
 ```bash
 npm.cmd run search -- --model "g80 (RG3)" --from 2023-01 --max-cars 30 --delay-ms 0
+npm.cmd run search -- --model "GV80" --from 2023-01 --max-cars 30 --delay-ms 0
+npm.cmd run export:static
 ```
 
 브라우저를 보면서 확인하려면:
