@@ -1,0 +1,75 @@
+name: Nightly K Car Search
+
+on:
+  schedule:
+    # 21:00 Asia/Seoul = 12:00 UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-kcar-search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Run nightly searches
+        run: npm run batch
+
+      - name: Export static data
+        run: npm run export:static
+
+      - name: Commit updated results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports public/data
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "Update nightly K Car search results"
+            git push origin main
+          fi
+
+      - name: Deploy GitHub Pages branch
+        run: |
+          tmpdir="$(mktemp -d)"
+          cp -R public/. "$tmpdir/"
+          git fetch origin gh-pages || true
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            git checkout --orphan gh-pages-work
+            git rm -rf .
+            cp -R "$tmpdir"/. .
+            git add .
+            git commit -m "Deploy nightly K Car search results"
+            git push --force origin gh-pages-work:gh-pages
+          else
+            git checkout --orphan gh-pages
+            git rm -rf .
+            cp -R "$tmpdir"/. .
+            git add .
+            git commit -m "Deploy nightly K Car search results"
+            git push origin gh-pages
+          fi

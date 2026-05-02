@@ -1,0 +1,188 @@
+[
+  {
+    "listRank": 1,
+    "carCd": "61322263",
+    "title": "제네시스 GV80 가솔린 2.5 2WD (7인승)",
+    "price": "6,190만원",
+    "year": "23년 1월식",
+    "mileage": "15,132km",
+    "fuel": "가솔린",
+    "center": "서부산직영점",
+    "labels": [
+      "짧은 Km",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV80%22%2C%22wr_in_model_nm%22%3A%22GV80%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C005%2C006%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV80%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61322263",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "짧은 Km;제조사AS;보험이력없음",
+      "mfgDt": "202301",
+      "prc": "6190",
+      "milg": "15132"
+    },
+    "firstRegistrationDate": "23년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 2,
+    "carCd": "61323076",
+    "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
+    "price": "5,980만원",
+    "year": "23년 6월식",
+    "mileage": "38,081km",
+    "fuel": "가솔린",
+    "center": "영등포직영점",
+    "labels": [
+      "특옵션",
+      "보험이력없음",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV80%22%2C%22wr_in_model_nm%22%3A%22GV80%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C005%2C006%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV80%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61323076",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;보험이력없음;베이지시트",
+      "mfgDt": "202306",
+      "prc": "5980",
+      "milg": "38081"
+    },
+    "firstRegistrationDate": "23년 6월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 3,
+    "carCd": "61330088",
+    "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
+    "price": "5,840만원",
+    "year": "23년 4월식",
+    "mileage": "19,690km",
+    "fuel": "가솔린",
+    "center": "강남직영점",
+    "labels": [
+      "1인소유",
+      "4WD",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV80%22%2C%22wr_in_model_nm%22%3A%22GV80%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C005%2C006%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV80%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61330088",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "1인소유;4WD;브라운시트",
+      "mfgDt": "202304",
+      "prc": "5840",
+      "milg": "19690"
+    },
+    "firstRegistrationDate": "23년 4월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,454,000원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 4,
+    "carCd": "61327126",
+    "title": "제네시스 GV80 가솔린 3.5 AWD (5인승)",
+    "price": "5,710만원",
+    "year": "23년 10월식",
+    "mileage": "36,820km",
+    "fuel": "가솔린",
+    "center": "의정부직영점",
+    "labels": [
+      "특옵션",
+      "4WD",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV80%22%2C%22wr_in_model_nm%22%3A%22GV80%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C005%2C006%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV80%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61327126",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;4WD;제조사AS",
+      "mfgDt": "202310",
+      "prc": "5710",
+      "milg": "36820"
+    },
+    "firstRegistrationDate": "23년 10월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 2회",
+    "rentHistory": "있음",
+    "ownDamage": "총 1,386,540원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 5,
+    "carCd": "61334464",
+    "title": "제네시스 GV80 가솔린 2.5 2WD (7인승)",
+    "price": "5,690만원",
+    "year": "23년 1월식",
+    "mileage": "34,655km",
+    "fuel": "가솔린",
+    "center": "영등포직영점",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV80%22%2C%22wr_in_model_nm%22%3A%22GV80%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C005%2C006%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV80%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61334464",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;보험이력없음",
+      "mfgDt": "202301",
+      "prc": "5690",
+      "milg": "34655"
+    },
+    "firstRegistrationDate": "23년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  }
+]

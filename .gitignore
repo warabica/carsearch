@@ -1,2 +1,4 @@
 node_modules/
-reports/
+reports/*
+!reports/kcar-mobile-*-all-*.json
+!reports/kcar-mobile-*-candidates-*.csv

@@ -9,6 +9,7 @@
   },
   "scripts": {
     "search": "node ./src/cli.js",
+    "batch": "node ./scripts/run-batch.js",
     "export:static": "node ./scripts/export-static-data.js",
     "web": "node ./src/web-server.js",
     "test": "node --test"
