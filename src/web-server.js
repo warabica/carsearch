@@ -22,7 +22,8 @@ const modelConfig = {
   },
   GV70: {
     label: "GV70",
-    status: "planned"
+    reportPrefix: "kcar-mobile-gv70-all-",
+    status: "ready"
   }
 };
 

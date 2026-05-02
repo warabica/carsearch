@@ -7,7 +7,8 @@ const outputDir = path.join(rootDir, "public", "data");
 
 const models = [
   { id: "G80", prefix: "kcar-mobile-g80-rg3-all-" },
-  { id: "GV80", prefix: "kcar-mobile-gv80-all-" }
+  { id: "GV80", prefix: "kcar-mobile-gv80-all-" },
+  { id: "GV70", prefix: "kcar-mobile-gv70-all-" }
 ];
 
 function summarizeRows(rows) {

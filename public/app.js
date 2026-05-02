@@ -7,9 +7,7 @@ const statusText = document.querySelector("#statusText");
 const candidateList = document.querySelector("#candidateList");
 const failureSummary = document.querySelector("#failureSummary");
 
-const plannedModels = {
-  GV70: "GV70 검색은 아직 연결되지 않았습니다."
-};
+const plannedModels = {};
 
 function setActive(model) {
   for (const button of buttons) {
