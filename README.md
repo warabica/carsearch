@@ -24,6 +24,25 @@ npm.cmd run search -- --model "GV70" --from 2023-01 --max-cars 30 --delay-ms 0
 npm.cmd run export:static
 ```
 
+## 자동 실행
+
+GitHub Actions가 매일 아래 작업을 실행합니다.
+
+- `21:00 KST`: `G80`, `GV80`, `GV70` 검색 후 `reports/`, `public/data/` 갱신
+- `22:00 KST`: 최신 후보 리스트를 `minseok.lee@gmail.com`으로 발송
+
+메일 발송에는 저장소 Secrets가 필요합니다.
+
+```text
+SMTP_HOST
+SMTP_PORT
+SMTP_USER
+SMTP_PASSWORD
+SMTP_FROM
+```
+
+Gmail을 사용할 경우 `SMTP_HOST=smtp.gmail.com`, `SMTP_PORT=587`, `SMTP_USER`는 Gmail 주소, `SMTP_PASSWORD`는 앱 비밀번호를 사용합니다.
+
 브라우저를 보면서 확인하려면:
 
 ```bash
