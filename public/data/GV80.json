@@ -1,7 +1,7 @@
 {
   "model": "GV80",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv80-all-20260524-130931.json",
+  "reportFile": "kcar-mobile-gv80-all-20260525-144309.json",
   "scanned": 30,
   "matched": 5,
   "candidates": [
@@ -321,26 +321,6 @@
     },
     {
       "rank": 13,
-      "id": "61313605",
-      "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
-      "price": "5,140만원",
-      "year": "23년 5월식",
-      "mileage": "17,696km",
-      "accident": "단순수리",
-      "ownDamage": "총 10,824,970원 (1건)",
-      "owner": "총 3회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313605",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 14,
       "id": "61365801",
       "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
       "price": "5,140만원",
@@ -356,6 +336,26 @@
       "failures": [
         "2023년 1월 이전 차량",
         "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 14,
+      "id": "61313605",
+      "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
+      "price": "5,140만원",
+      "year": "23년 5월식",
+      "mileage": "17,696km",
+      "accident": "단순수리",
+      "ownDamage": "총 10,824,970원 (1건)",
+      "owner": "총 3회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313605",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음",
+        "무사고 아님"
       ],
       "unknowns": []
     },
@@ -406,14 +406,13 @@
       "year": "23년 1월식",
       "mileage": "58,809km",
       "accident": "무사고",
-      "ownDamage": "총 0원 (1건)",
+      "ownDamage": "없음",
       "owner": "총 1회",
       "warning": "특수용도 (대여)",
       "rent": "있음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61325347",
       "passed": false,
       "failures": [
-        "내차 피해 있음",
         "주의 이력 있음",
         "렌트 이력 있음"
       ],
@@ -695,7 +694,7 @@
   "failureSummary": {
     "주의 이력 있음": 9,
     "렌트 이력 있음": 9,
-    "내차 피해 있음": 18,
+    "내차 피해 있음": 17,
     "무사고 아님": 12,
     "2023년 1월 이전 차량": 12,
     "주의 이력 확인 불가": 2
