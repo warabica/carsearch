@@ -1,0 +1,21 @@
+{
+  "name": "carsearch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "K Car used car search and history filter tool",
+  "bin": {
+    "carsearch": "./src/cli.js"
+  },
+  "scripts": {
+    "search": "node ./src/cli.js",
+    "batch": "node ./scripts/run-batch.js",
+    "export:static": "node ./scripts/export-static-data.js",
+    "web": "node ./src/web-server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "devDependencies": {}
+}

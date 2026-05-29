@@ -1,0 +1,10 @@
+{
+  "model": "G80",
+  "status": "ready",
+  "reportFile": "kcar-mobile-g80-rg3-all-20260526-143052.json",
+  "scanned": 0,
+  "matched": 0,
+  "candidates": [],
+  "all": [],
+  "failureSummary": {}
+}

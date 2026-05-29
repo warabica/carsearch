@@ -30,3 +30,11 @@ venv/
 
 # Claude
 .claude/
+
+# Node
+node_modules/
+
+# Reports (keep only specific patterns)
+reports/*
+!reports/kcar-mobile-*-all-*.json
+!reports/kcar-mobile-*-candidates-*.csv

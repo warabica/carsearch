@@ -1,0 +1,101 @@
+[
+  {
+    "listRank": 1,
+    "carCd": "61324201",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,790만원",
+    "year": "24년 3월식(25년형)",
+    "mileage": "31,979km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "KW6무료",
+      "짧은 Km",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "text": "찜하기 비교함에 담기 6개월 보증 무료·최대 500만원 혜택 제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD 5,790만원 할부월 94만원 24년 3월식(25년형) 31,979km 가솔린 홈서비스 메가센터 전화연결",
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61324201",
+    "firstRegistrationDate": "24년 3월식(25년형)",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "무사고 아님",
+      "1인 소유 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 2,
+    "carCd": "61317351",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,510만원",
+    "year": "24년 1월식(25년형)",
+    "mileage": "43,129km",
+    "fuel": "가솔린",
+    "center": "아산",
+    "labels": [
+      "KW6무료",
+      "특옵션",
+      "1인소유",
+      "브라운시트"
+    ],
+    "text": "찜하기 비교함에 담기 6개월 보증 무료·최대 500만원 혜택 제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD 5,510만원 할부월 90만원 24년 1월식(25년형) 43,129km 가솔린 아산 전화연결",
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61317351",
+    "firstRegistrationDate": "24년 1월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,317,569원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "1인 소유 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 3,
+    "carCd": "61313419",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,380만원",
+    "year": "24년 4월식(25년형)",
+    "mileage": "18,385km",
+    "fuel": "가솔린",
+    "center": "대전유성",
+    "labels": [
+      "KW6무료",
+      "1인소유",
+      "제조사AS",
+      "브라운시트"
+    ],
+    "text": "찜하기 비교함에 담기 6개월 보증 무료·최대 500만원 혜택 제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD 5,380만원 할부월 88만원 24년 4월식(25년형) 18,385km 가솔린 대전유성 전화연결",
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313419",
+    "firstRegistrationDate": "24년 4월식(25년형)",
+    "accidentHistory": "사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 5,214,890원 (2건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "무사고 아님",
+      "1인 소유 아님"
+    ],
+    "unknowns": []
+  }
+]

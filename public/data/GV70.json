@@ -1,0 +1,10 @@
+{
+  "model": "GV70",
+  "status": "ready",
+  "reportFile": "kcar-mobile-gv70-all-20260526-143301.json",
+  "scanned": 0,
+  "matched": 0,
+  "candidates": [],
+  "all": [],
+  "failureSummary": {}
+}
