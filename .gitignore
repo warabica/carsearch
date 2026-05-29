@@ -28,8 +28,9 @@ __pycache__/
 .venv/
 venv/
 
-# Claude
-.claude/
+# Claude (settings/cache 제외, commands는 포함)
+.claude/*
+!.claude/commands/
 
 # Node
 node_modules/
