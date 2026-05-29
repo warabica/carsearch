@@ -1,0 +1,32 @@
+# Output files
+output/
+
+# Debug/temp files
+debug_*.json
+debug_*.html
+debug_*.txt
+debug_page.py
+after_mnftr_click.txt
+car_codes.json
+deep_check.json
+deep_check_out.txt
+desktop_body.txt
+desktop_check.json
+mobile_body.txt
+search_list_call.txt
+search_page.html
+site_check.json
+site_check_out.txt
+test_result.json
+ui_check.json
+ui_g80.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Claude
+.claude/
