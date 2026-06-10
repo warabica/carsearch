@@ -17,7 +17,9 @@ jobs:
   search:
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright:v1.52.0-jammy
+      image: mcr.microsoft.com/playwright:v1.59.1-jammy
+      env:
+        PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
     timeout-minutes: 30
     steps:
       - name: Checkout
@@ -29,15 +31,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
 
       - name: Install dependencies
         run: npm ci
 
       - name: Run nightly searches
         run: npm run batch
-        env:
-          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
 
       - name: Export static data
         run: npm run export:static
