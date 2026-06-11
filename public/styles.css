@@ -65,6 +65,18 @@ h2 {
   font-size: 18px;
 }
 
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.updated-at {
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .metric {
   min-width: 88px;
   padding: 14px 18px;

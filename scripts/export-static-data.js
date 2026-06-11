@@ -40,6 +40,14 @@ function toPublicCar(row) {
   };
 }
 
+function timestampFromReportFile(reportFile) {
+  const match = reportFile.match(/(\d{8})-(\d{6})\.json$/);
+  if (!match) return new Date().toISOString();
+  const [, ymd, hms] = match;
+  const iso = `${ymd.slice(0, 4)}-${ymd.slice(4, 6)}-${ymd.slice(6, 8)}T${hms.slice(0, 2)}:${hms.slice(2, 4)}:${hms.slice(4, 6)}+09:00`;
+  return new Date(iso).toISOString();
+}
+
 async function latestReport(prefix) {
   const files = await readdir(reportsDir);
   return files
@@ -58,6 +66,7 @@ async function exportModel(model) {
     model: model.id,
     status: "ready",
     reportFile,
+    generatedAt: timestampFromReportFile(reportFile),
     scanned: rows.length,
     matched: candidates.length,
     candidates,

@@ -3,6 +3,7 @@ const matchedCount = document.querySelector("#matchedCount");
 const modelName = document.querySelector("#modelName");
 const scannedCount = document.querySelector("#scannedCount");
 const reportFile = document.querySelector("#reportFile");
+const updatedAt = document.querySelector("#updatedAt");
 const statusText = document.querySelector("#statusText");
 const candidateList = document.querySelector("#candidateList");
 const failureSummary = document.querySelector("#failureSummary");
@@ -69,6 +70,17 @@ function renderFailures(summary) {
     .join("");
 }
 
+function formatTimestamp(isoString) {
+  if (!isoString) return "-";
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return "-";
+  return new Intl.DateTimeFormat("ko-KR", {
+    timeZone: "Asia/Seoul",
+    dateStyle: "medium",
+    timeStyle: "short"
+  }).format(date);
+}
+
 async function fetchJson(url) {
   const response = await fetch(url, { cache: "no-store" });
   if (!response.ok) throw new Error(`${url} 응답 실패`);
@@ -119,6 +131,7 @@ async function loadModel(model) {
   matchedCount.textContent = data.matched;
   scannedCount.textContent = data.scanned;
   reportFile.textContent = data.reportFile;
+  updatedAt.textContent = `최근 검색: ${formatTimestamp(data.generatedAt)}`;
   statusText.textContent = `${data.matched}대가 조건을 통과했습니다.`;
   renderCandidates(data.candidates);
   renderFailures(data.failureSummary);

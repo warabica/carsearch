@@ -2,6 +2,7 @@
   "model": "G80",
   "status": "ready",
   "reportFile": "kcar-mobile-g80-rg3-all-20260611-230152.json",
+  "generatedAt": "2026-06-11T14:01:52.000Z",
   "scanned": 30,
   "matched": 3,
   "candidates": [

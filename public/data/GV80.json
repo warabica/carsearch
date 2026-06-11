@@ -2,6 +2,7 @@
   "model": "GV80",
   "status": "ready",
   "reportFile": "kcar-mobile-gv80-all-20260611-231023.json",
+  "generatedAt": "2026-06-11T14:10:23.000Z",
   "scanned": 30,
   "matched": 6,
   "candidates": [
