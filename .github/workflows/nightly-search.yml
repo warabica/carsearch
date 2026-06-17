@@ -51,6 +51,7 @@ jobs:
             echo "No result changes to commit."
           else
             git commit -m "Update nightly K Car search results"
+            git pull --rebase origin main
             git push origin main
           fi
 
