@@ -1,8 +1,8 @@
 {
   "model": "GV70",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv70-all-20260625-142050.json",
-  "generatedAt": "2026-06-25T05:20:50.000Z",
+  "reportFile": "kcar-mobile-gv70-all-20260626-141901.json",
+  "generatedAt": "2026-06-26T05:19:01.000Z",
   "scanned": 30,
   "matched": 8,
   "candidates": [
@@ -117,7 +117,7 @@
       "mileage": "21,736km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61379255",
@@ -188,7 +188,7 @@
       "rank": 3,
       "id": "61322451",
       "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
-      "price": "5,060만원",
+      "price": "4,980만원",
       "year": "23년 10월식(24년형)",
       "mileage": "18,699km",
       "accident": "무사고",
@@ -205,26 +205,6 @@
     },
     {
       "rank": 4,
-      "id": "61313925",
-      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
-      "price": "4,980만원",
-      "year": "24년 1월식",
-      "mileage": "12,400km",
-      "accident": "단순수리",
-      "ownDamage": "총 9,857,197원 (2건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313925",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 5,
       "id": "61374982",
       "title": "제네시스 GV70 디젤 2.2 AWD",
       "price": "4,980만원",
@@ -240,6 +220,26 @@
       "failures": [
         "주의 이력 있음",
         "렌트 이력 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 5,
+      "id": "61313925",
+      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+      "price": "4,980만원",
+      "year": "24년 1월식",
+      "mileage": "12,400km",
+      "accident": "단순수리",
+      "ownDamage": "총 9,857,197원 (2건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313925",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음",
+        "무사고 아님"
       ],
       "unknowns": []
     },
@@ -396,7 +396,7 @@
       "mileage": "21,736km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61379255",
@@ -484,26 +484,6 @@
     },
     {
       "rank": 19,
-      "id": "61369320",
-      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
-      "price": "4,500만원",
-      "year": "23년 12월식(24년형)",
-      "mileage": "68,124km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "특수용도 (대여)",
-      "rent": "있음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61369320",
-      "passed": false,
-      "failures": [
-        "주의 이력 있음",
-        "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 20,
       "id": "61373872",
       "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
       "price": "4,490만원",
@@ -524,7 +504,7 @@
       "unknowns": []
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "61366406",
       "title": "제네시스 GV70 디젤 2.2 AWD",
       "price": "4,480만원",
@@ -543,7 +523,7 @@
       "unknowns": []
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "61374975",
       "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
       "price": "4,460만원",
@@ -558,6 +538,26 @@
       "passed": false,
       "failures": [
         "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 22,
+      "id": "61369320",
+      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+      "price": "4,450만원",
+      "year": "23년 12월식(24년형)",
+      "mileage": "68,124km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61369320",
+      "passed": false,
+      "failures": [
+        "주의 이력 있음",
+        "렌트 이력 있음"
       ],
       "unknowns": []
     },
