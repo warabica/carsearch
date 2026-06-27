@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20260626-140204.json",
-  "generatedAt": "2026-06-26T05:02:04.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20260627-131013.json",
+  "generatedAt": "2026-06-27T04:10:13.000Z",
   "scanned": 30,
   "matched": 4,
   "candidates": [
@@ -235,25 +235,6 @@
     },
     {
       "rank": 9,
-      "id": "61373392",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,680만원",
-      "year": "22년 3월식",
-      "mileage": "38,605km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61373392",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 10,
       "id": "61378950",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 스포츠 패키지 AWD",
       "price": "4,680만원",
@@ -265,6 +246,25 @@
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61378950",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 10,
+      "id": "61373392",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+      "price": "4,680만원",
+      "year": "22년 3월식",
+      "mileage": "38,605km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61373392",
       "passed": false,
       "failures": [
         "2023년 1월 이전 차량"
@@ -364,26 +364,6 @@
     },
     {
       "rank": 16,
-      "id": "61375722",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,510만원",
-      "year": "23년 7월식(24년형)",
-      "mileage": "18,569km",
-      "accident": "단순수리",
-      "ownDamage": "총 491,220원 (1건)",
-      "owner": "총 2회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61375722",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 17,
       "id": "61376726",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,510만원",
@@ -403,7 +383,7 @@
       "unknowns": []
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "61371949",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 스포츠 패키지 2WD",
       "price": "4,500만원",
@@ -423,6 +403,27 @@
       "unknowns": [
         "주의 이력 확인 불가"
       ]
+    },
+    {
+      "rank": 18,
+      "id": "61378358",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+      "price": "4,480만원",
+      "year": "21년 6월식",
+      "mileage": "21,540km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61378358",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량",
+        "주의 이력 있음",
+        "렌트 이력 있음"
+      ],
+      "unknowns": []
     },
     {
       "rank": 19,
@@ -509,7 +510,7 @@
       "rank": 23,
       "id": "61366698",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,290만원",
+      "price": "4,250만원",
       "year": "23년 4월식",
       "mileage": "57,200km",
       "accident": "무사고",
@@ -546,6 +547,28 @@
     },
     {
       "rank": 25,
+      "id": "61377847",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+      "price": "4,230만원",
+      "year": "22년 5월식",
+      "mileage": "50,969km",
+      "accident": "무사고",
+      "ownDamage": "총 575,460원 (1건)",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61377847",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량",
+        "내차 피해 있음",
+        "주의 이력 있음",
+        "렌트 이력 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 26,
       "id": "61372044",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 2WD",
       "price": "4,210만원",
@@ -565,7 +588,7 @@
       "unknowns": []
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "61374149",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 2WD",
       "price": "4,150만원",
@@ -584,7 +607,7 @@
       "unknowns": []
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "61376004",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,150만원",
@@ -603,7 +626,7 @@
       "unknowns": []
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "61374407",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,090만원",
@@ -624,7 +647,7 @@
       "unknowns": []
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "61349103",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 스포츠 패키지 AWD",
       "price": "4,090만원",
@@ -643,33 +666,14 @@
         "무사고 아님"
       ],
       "unknowns": []
-    },
-    {
-      "rank": 30,
-      "id": "61376747",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 스포츠 패키지 2WD",
-      "price": "4,080만원",
-      "year": "22년 6월식",
-      "mileage": "42,414km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 3회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376747",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량"
-      ],
-      "unknowns": []
     }
   ],
   "failureSummary": {
     "내차 피해 있음": 15,
-    "무사고 아님": 10,
-    "주의 이력 있음": 8,
-    "렌트 이력 있음": 8,
-    "2023년 1월 이전 차량": 8,
+    "무사고 아님": 9,
+    "주의 이력 있음": 10,
+    "렌트 이력 있음": 10,
+    "2023년 1월 이전 차량": 9,
     "주의 이력 확인 불가": 1
   }
 }
