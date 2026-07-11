@@ -1,0 +1,1113 @@
+[
+  {
+    "listRank": 1,
+    "carCd": "61315549",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 2WD",
+    "price": "4,590만원 4,950만원",
+    "year": "24년 1월식",
+    "mileage": "31,375km",
+    "fuel": "가솔린",
+    "center": "시흥직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61315549",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;1인소유;주행보조",
+      "mfgDt": "202401",
+      "prc": "4950",
+      "milg": "31375"
+    },
+    "firstRegistrationDate": "24년 1월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 8,002,765원 (2건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 2,
+    "carCd": "61322451",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,950만원",
+    "year": "23년 10월식(24년형)",
+    "mileage": "18,753km",
+    "fuel": "가솔린",
+    "center": "포천직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "짧은 Km"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61322451",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;1인소유;짧은 Km",
+      "mfgDt": "202310",
+      "prc": "4950",
+      "milg": "18753"
+    },
+    "firstRegistrationDate": "23년 10월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,210,870원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 3,
+    "carCd": "61374982",
+    "title": "제네시스 GV70 디젤 2.2 AWD",
+    "price": "4,930만원",
+    "year": "23년 9월식(24년형)",
+    "mileage": "47,307km",
+    "fuel": "디젤",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "제조사AS",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61374982",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "제조사AS;주행보조",
+      "mfgDt": "202309",
+      "prc": "4930",
+      "milg": "47307"
+    },
+    "firstRegistrationDate": "23년 9월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 4,
+    "carCd": "61370749",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+    "price": "4,890만원",
+    "year": "23년 6월식",
+    "mileage": "28,974km",
+    "fuel": "가솔린",
+    "center": "포항직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "4WD"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61370749",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;4WD",
+      "mfgDt": "202306",
+      "prc": "4890",
+      "milg": "28974"
+    },
+    "firstRegistrationDate": "23년 6월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 5,
+    "carCd": "61313925",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+    "price": "4,840만원",
+    "year": "24년 1월식",
+    "mileage": "12,400km",
+    "fuel": "가솔린",
+    "center": "수원직영점",
+    "labels": [],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61313925",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "",
+      "mfgDt": "202401",
+      "prc": "4840",
+      "milg": "12400"
+    },
+    "firstRegistrationDate": "24년 1월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 9,857,197원 (2건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 6,
+    "carCd": "61329973",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,490만원 4,770만원",
+    "year": "23년 6월식",
+    "mileage": "31,197km",
+    "fuel": "가솔린",
+    "center": "강남직영점",
+    "labels": [
+      "4WD",
+      "제조사AS",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61329973",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "4WD;제조사AS;베이지시트",
+      "mfgDt": "202306",
+      "prc": "4770",
+      "milg": "31197"
+    },
+    "firstRegistrationDate": "23년 6월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 7,
+    "carCd": "61374972",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 2WD",
+    "price": "4,750만원",
+    "year": "23년 7월식",
+    "mileage": "29,749km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "1인소유",
+      "보험이력없음",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61374972",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;보험이력없음;주행보조",
+      "mfgDt": "202307",
+      "prc": "4750",
+      "milg": "29749"
+    },
+    "firstRegistrationDate": "23년 7월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 8,
+    "carCd": "61329189",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,640만원 4,740만원",
+    "year": "23년 6월식",
+    "mileage": "43,299km",
+    "fuel": "가솔린",
+    "center": "대전유성직영점",
+    "labels": [
+      "1인소유",
+      "보험이력없음",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61329189",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;보험이력없음;베이지시트",
+      "mfgDt": "202306",
+      "prc": "4740",
+      "milg": "43299"
+    },
+    "firstRegistrationDate": "23년 6월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 9,
+    "carCd": "61381047",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,690만원",
+    "year": "22년 5월식(23년형)",
+    "mileage": "23,018km",
+    "fuel": "가솔린",
+    "center": "포항직영점",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61381047",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;주행보조",
+      "mfgDt": "202205",
+      "prc": "4690",
+      "milg": "23018"
+    },
+    "firstRegistrationDate": "22년 5월식(23년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 0회",
+    "rentHistory": "없음",
+    "ownDamage": "총 380,000원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 10,
+    "carCd": "61371312",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 2WD",
+    "price": "4,650만원",
+    "year": "24년 1월식",
+    "mileage": "16,778km",
+    "fuel": "가솔린",
+    "center": "화성직영점",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61371312",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;보험이력없음",
+      "mfgDt": "202401",
+      "prc": "4650",
+      "milg": "16778"
+    },
+    "firstRegistrationDate": "24년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 11,
+    "carCd": "61380039",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,650만원",
+    "year": "22년 2월식",
+    "mileage": "24,139km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61380039",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;보험이력없음",
+      "mfgDt": "202202",
+      "prc": "4650",
+      "milg": "24139"
+    },
+    "firstRegistrationDate": "22년 2월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 12,
+    "carCd": "61377104",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,620만원",
+    "year": "23년 7월식",
+    "mileage": "29,015km",
+    "fuel": "가솔린",
+    "center": "일산직영점",
+    "labels": [
+      "특옵션",
+      "4WD",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61377104",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;4WD;제조사AS",
+      "mfgDt": "202307",
+      "prc": "4620",
+      "milg": "29015"
+    },
+    "firstRegistrationDate": "23년 7월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 13,
+    "carCd": "61379255",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,620만원",
+    "year": "24년 1월식",
+    "mileage": "21,736km",
+    "fuel": "가솔린",
+    "center": "대구반야월직영점",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61379255",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;보험이력없음",
+      "mfgDt": "202401",
+      "prc": "4620",
+      "milg": "21736"
+    },
+    "firstRegistrationDate": "24년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 14,
+    "carCd": "61368143",
+    "title": "제네시스 GV70 가솔린 터보 3.5 스포츠 AWD",
+    "price": "4,590만원",
+    "year": "23년 5월식",
+    "mileage": "26,273km",
+    "fuel": "가솔린",
+    "center": "안성직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61368143",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;1인소유;제조사AS",
+      "mfgDt": "202305",
+      "prc": "4590",
+      "milg": "26273"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 1,181,180원 (2건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 15,
+    "carCd": "61381567",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,550만원",
+    "year": "23년 5월식",
+    "mileage": "33,418km",
+    "fuel": "가솔린",
+    "center": "광주수완직영점",
+    "labels": [
+      "4WD",
+      "제조사AS",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61381567",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "4WD;제조사AS;베이지시트",
+      "mfgDt": "202305",
+      "prc": "4550",
+      "milg": "33418"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 16,
+    "carCd": "61376692",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,550만원",
+    "year": "23년 12월식(24년형)",
+    "mileage": "24,536km",
+    "fuel": "가솔린",
+    "center": "전주직영점",
+    "labels": [
+      "짧은 Km",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376692",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "짧은 Km;제조사AS;보험이력없음",
+      "mfgDt": "202312",
+      "prc": "4550",
+      "milg": "24536"
+    },
+    "firstRegistrationDate": "23년 12월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 17,
+    "carCd": "61382017",
+    "title": "제네시스 GV70 가솔린 터보 3.5 스포츠 AWD",
+    "price": "4,550만원",
+    "year": "22년 6월식(23년형)",
+    "mileage": "43,713km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61382017",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;1인소유;제조사AS",
+      "mfgDt": "202206",
+      "prc": "4550",
+      "milg": "43713"
+    },
+    "firstRegistrationDate": "22년 6월식(23년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 0회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 18,
+    "carCd": "61376076",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,510만원",
+    "year": "21년 12월식",
+    "mileage": "41,313km",
+    "fuel": "가솔린",
+    "center": "부산직영점",
+    "labels": [
+      "특옵션",
+      "보험이력없음",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376076",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;보험이력없음;브라운시트",
+      "mfgDt": "202112",
+      "prc": "4510",
+      "milg": "41313"
+    },
+    "firstRegistrationDate": "21년 12월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 19,
+    "carCd": "61374975",
+    "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
+    "price": "4,460만원",
+    "year": "23년 4월식",
+    "mileage": "43,283km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61374975",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;주행보조",
+      "mfgDt": "202304",
+      "prc": "4460",
+      "milg": "43283"
+    },
+    "firstRegistrationDate": "23년 4월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "없이 아끼며 안전하게 운행한 1인신조 차량입니다.",
+    "rentHistory": "없음",
+    "ownDamage": "총 2,099,000원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 20,
+    "carCd": "61373872",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,450만원",
+    "year": "21년 3월식",
+    "mileage": "52,631km",
+    "fuel": "가솔린",
+    "center": "대전직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61373872",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;주행보조",
+      "mfgDt": "202103",
+      "prc": "4450",
+      "milg": "52631"
+    },
+    "firstRegistrationDate": "21년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 21,
+    "carCd": "61359149",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+    "price": "4,200만원 4,420만원",
+    "year": "21년 6월식",
+    "mileage": "24,220km",
+    "fuel": "가솔린",
+    "center": "수원직영점",
+    "labels": [],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61359149",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "",
+      "mfgDt": "202106",
+      "prc": "4420",
+      "milg": "24220"
+    },
+    "firstRegistrationDate": "21년 6월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "리콜필요 (1건)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "무사고 아님"
+    ],
+    "unknowns": [
+      "주의 이력 확인 불가"
+    ]
+  },
+  {
+    "listRank": 22,
+    "carCd": "61385388",
+    "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
+    "price": "4,420만원",
+    "year": "23년 7월식",
+    "mileage": "23,380km",
+    "fuel": "가솔린",
+    "center": "아산직영점",
+    "labels": [
+      "특옵션",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61385388",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;보험이력없음",
+      "mfgDt": "202307",
+      "prc": "4420",
+      "milg": "23380"
+    },
+    "firstRegistrationDate": "23년 7월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 23,
+    "carCd": "61382012",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,390만원",
+    "year": "23년 12월식(24년형)",
+    "mileage": "36,572km",
+    "fuel": "가솔린",
+    "center": "오산동탄직영점",
+    "labels": [
+      "1인소유",
+      "보험이력없음",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61382012",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;보험이력없음;주행보조",
+      "mfgDt": "202312",
+      "prc": "4390",
+      "milg": "36572"
+    },
+    "firstRegistrationDate": "23년 12월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "없이 한분이 운행하시던 \" 1인 소유 \" 차량입니다.",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 24,
+    "carCd": "61368841",
+    "title": "제네시스 GV70 가솔린 터보 3.5 스포츠 AWD",
+    "price": "4,380만원",
+    "year": "22년 4월식",
+    "mileage": "16,898km",
+    "fuel": "가솔린",
+    "center": "경인직영점",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61368841",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "1인소유;짧은 Km;제조사AS",
+      "mfgDt": "202204",
+      "prc": "4380",
+      "milg": "16898"
+    },
+    "firstRegistrationDate": "22년 4월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,252,410원 (1건)",
+    "warningHistory": "리콜필요 (1건)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": [
+      "주의 이력 확인 불가"
+    ]
+  },
+  {
+    "listRank": 25,
+    "carCd": "61376986",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+    "price": "4,310만원",
+    "year": "21년 5월식",
+    "mileage": "52,145km",
+    "fuel": "가솔린",
+    "center": "안양직영점",
+    "labels": [
+      "특옵션"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376986",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션",
+      "mfgDt": "202105",
+      "prc": "4310",
+      "milg": "52145"
+    },
+    "firstRegistrationDate": "21년 5월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 26,
+    "carCd": "61372046",
+    "title": "제네시스 GV70 가솔린 터보 2.5 AWD",
+    "price": "4,290만원",
+    "year": "22년 11월식(23년형)",
+    "mileage": "32,159km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "제조사AS",
+      "보험이력없음",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61372046",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "제조사AS;보험이력없음;주행보조",
+      "mfgDt": "202211",
+      "prc": "4290",
+      "milg": "32159"
+    },
+    "firstRegistrationDate": "22년 11월식(23년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 27,
+    "carCd": "61369793",
+    "title": "제네시스 GV70 디젤 2.2 AWD",
+    "price": "4,260만원",
+    "year": "22년 12월식(23년형)",
+    "mileage": "23,850km",
+    "fuel": "디젤",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "4WD"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61369793",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "1인소유;짧은 Km;4WD",
+      "mfgDt": "202212",
+      "prc": "4260",
+      "milg": "23850"
+    },
+    "firstRegistrationDate": "22년 12월식(23년형)",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 7,137,670원 (2건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 28,
+    "carCd": "61386322",
+    "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
+    "price": "4,260만원",
+    "year": "23년 5월식",
+    "mileage": "43,229km",
+    "fuel": "가솔린",
+    "center": "경기서부직영점",
+    "labels": [
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61386322",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "베이지시트",
+      "mfgDt": "202305",
+      "prc": "4260",
+      "milg": "43229"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 887,007원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 29,
+    "carCd": "61366406",
+    "title": "제네시스 GV70 디젤 2.2 AWD",
+    "price": "4,250만원",
+    "year": "21년 4월식",
+    "mileage": "47,179km",
+    "fuel": "디젤",
+    "center": "포천직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61366406",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;보험이력없음",
+      "mfgDt": "202104",
+      "prc": "4250",
+      "milg": "47179"
+    },
+    "firstRegistrationDate": "21년 4월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 30,
+    "carCd": "61373988",
+    "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
+    "price": "4,240만원",
+    "year": "21년 3월식",
+    "mileage": "51,836km",
+    "fuel": "가솔린",
+    "center": "일산직영점",
+    "labels": [
+      "특옵션",
+      "보험이력없음",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22GV70%22%2C%22wr_in_model_nm%22%3A%22GV70%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%2C%22wr_in_multi_mnuftr_modelGrp_model%22%3A%22007%2C006%2C009%22%2C%22noquery_model%22%3A%22%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%20GV70%22%2C%22carType_model%22%3A%22KOR%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61373988",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;보험이력없음;주행보조",
+      "mfgDt": "202103",
+      "prc": "4240",
+      "milg": "51836"
+    },
+    "firstRegistrationDate": "21년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  }
+]
