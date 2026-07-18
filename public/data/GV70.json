@@ -1,8 +1,8 @@
 {
   "model": "GV70",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv70-all-20260717-132027.json",
-  "generatedAt": "2026-07-17T04:20:27.000Z",
+  "reportFile": "kcar-mobile-gv70-all-20260718-130725.json",
+  "generatedAt": "2026-07-18T04:07:25.000Z",
   "scanned": 30,
   "matched": 6,
   "candidates": [
@@ -627,7 +627,7 @@
       "mileage": "37,981km",
       "accident": "단순수리",
       "ownDamage": "없음",
-      "owner": "총 3회",
+      "owner": "총 4회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61386624",
