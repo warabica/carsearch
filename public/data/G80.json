@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20260725-130135.json",
-  "generatedAt": "2026-07-25T04:01:35.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20260726-125819.json",
+  "generatedAt": "2026-07-26T03:58:19.000Z",
   "scanned": 30,
   "matched": 6,
   "candidates": [
@@ -75,7 +75,7 @@
       "unknowns": []
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "61383036",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,370만원",
@@ -500,6 +500,26 @@
     },
     {
       "rank": 21,
+      "id": "61376726",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+      "price": "4,450만원",
+      "year": "23년 2월식",
+      "mileage": "40,165km",
+      "accident": "단순수리",
+      "ownDamage": "총 3,854,019원 (2건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376726",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음",
+        "무사고 아님"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 22,
       "id": "61378358",
       "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
       "price": "4,450만원",
@@ -516,26 +536,6 @@
         "2023년 1월 이전 차량",
         "주의 이력 있음",
         "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 22,
-      "id": "61376726",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,450만원",
-      "year": "23년 2월식",
-      "mileage": "40,165km",
-      "accident": "단순수리",
-      "ownDamage": "총 3,854,019원 (2건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376726",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
       ],
       "unknowns": []
     },
@@ -560,6 +560,23 @@
     },
     {
       "rank": 24,
+      "id": "61383036",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+      "price": "4,370만원",
+      "year": "23년 2월식",
+      "mileage": "36,515km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61383036",
+      "passed": true,
+      "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 25,
       "id": "61389864",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,370만원",
@@ -580,24 +597,27 @@
       "unknowns": []
     },
     {
-      "rank": 25,
-      "id": "61383036",
+      "rank": 26,
+      "id": "61378964",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,370만원",
-      "year": "23년 2월식",
-      "mileage": "36,515km",
+      "price": "4,330만원",
+      "year": "23년 12월식(24년형)",
+      "mileage": "40,617km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61383036",
-      "passed": true,
-      "failures": [],
+      "owner": "총 2회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61378964",
+      "passed": false,
+      "failures": [
+        "주의 이력 있음",
+        "렌트 이력 있음"
+      ],
       "unknowns": []
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "61385427",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,330만원",
@@ -612,26 +632,6 @@
       "passed": false,
       "failures": [
         "내차 피해 있음",
-        "주의 이력 있음",
-        "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 27,
-      "id": "61378964",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
-      "price": "4,330만원",
-      "year": "23년 12월식(24년형)",
-      "mileage": "40,617km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 2회",
-      "warning": "특수용도 (대여)",
-      "rent": "있음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61378964",
-      "passed": false,
-      "failures": [
         "주의 이력 있음",
         "렌트 이력 있음"
       ],
