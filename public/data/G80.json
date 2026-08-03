@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20260802-125721.json",
-  "generatedAt": "2026-08-02T03:57:21.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20260803-141622.json",
+  "generatedAt": "2026-08-03T05:16:22.000Z",
   "scanned": 30,
   "matched": 6,
   "candidates": [
@@ -58,7 +58,7 @@
       "unknowns": []
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "61383036",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,350만원",
@@ -317,7 +317,7 @@
       "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
       "price": "4,650만원",
       "year": "23년 5월식",
-      "mileage": "52,084km",
+      "mileage": "52,090km",
       "accident": "무사고",
       "ownDamage": "없음",
       "owner": "총 1회",
@@ -603,27 +603,6 @@
     },
     {
       "rank": 26,
-      "id": "61389919",
-      "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
-      "price": "4,350만원",
-      "year": "22년 4월식",
-      "mileage": "45,160km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "특수용도 (대여)",
-      "rent": "있음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389919",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량",
-        "주의 이력 있음",
-        "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 27,
       "id": "61389870",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,350만원",
@@ -645,7 +624,7 @@
       "unknowns": []
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": "61383036",
       "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
       "price": "4,350만원",
@@ -659,6 +638,27 @@
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61383036",
       "passed": true,
       "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 28,
+      "id": "61389919",
+      "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+      "price": "4,350만원",
+      "year": "22년 4월식",
+      "mileage": "45,160km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389919",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량",
+        "주의 이력 있음",
+        "렌트 이력 있음"
+      ],
       "unknowns": []
     },
     {
