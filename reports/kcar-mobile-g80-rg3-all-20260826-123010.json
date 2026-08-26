@@ -1,0 +1,1111 @@
+[
+  {
+    "listRank": 1,
+    "carCd": "61403963",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,500만원",
+    "year": "24년 2월식(25년형)",
+    "mileage": "32,666km",
+    "fuel": "가솔린",
+    "center": "광명직영점",
+    "labels": [
+      "1인소유",
+      "세금계산서",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61403963",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;세금계산서;제조사AS",
+      "mfgDt": "202402",
+      "prc": "5500",
+      "milg": "32666"
+    },
+    "firstRegistrationDate": "24년 2월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 2,
+    "carCd": "61392636",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 3.5 4WD",
+    "price": "5,490만원",
+    "year": "24년 7월식(25년형)",
+    "mileage": "11,065km",
+    "fuel": "가솔린",
+    "center": "구미직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392636",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;1인소유;제조사AS",
+      "mfgDt": "202407",
+      "prc": "5490",
+      "milg": "11065"
+    },
+    "firstRegistrationDate": "24년 7월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 547,320원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 3,
+    "carCd": "61402375",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,390만원",
+    "year": "24년 7월식(25년형)",
+    "mileage": "15,943km",
+    "fuel": "가솔린",
+    "center": "대구직영점",
+    "labels": [
+      "1인소유",
+      "주행보조",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61402375",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;주행보조;베이지시트",
+      "mfgDt": "202407",
+      "prc": "5390",
+      "milg": "15943"
+    },
+    "firstRegistrationDate": "24년 7월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 4,
+    "carCd": "61403596",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,210만원",
+    "year": "24년 8월식(25년형)",
+    "mileage": "10,224km",
+    "fuel": "가솔린",
+    "center": "울산직영점",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61403596",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;짧은 Km;보험이력없음",
+      "mfgDt": "202408",
+      "prc": "5210",
+      "milg": "10224"
+    },
+    "firstRegistrationDate": "24년 8월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 5,
+    "carCd": "61377663",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 2WD",
+    "price": "5,120만원",
+    "year": "24년 6월식(25년형)",
+    "mileage": "14,187km",
+    "fuel": "가솔린",
+    "center": "홈서비스 메가센터",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61377663",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;짧은 Km;주행보조",
+      "mfgDt": "202406",
+      "prc": "5120",
+      "milg": "14187"
+    },
+    "firstRegistrationDate": "24년 6월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 850,010원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 6,
+    "carCd": "61405194",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "5,100만원",
+    "year": "24년 4월식(25년형)",
+    "mileage": "23,231km",
+    "fuel": "가솔린",
+    "center": "김포공항직영점",
+    "labels": [
+      "4WD",
+      "제조사AS",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61405194",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "4WD;제조사AS;주행보조",
+      "mfgDt": "202404",
+      "prc": "5100",
+      "milg": "23231"
+    },
+    "firstRegistrationDate": "24년 4월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 7,
+    "carCd": "61393137",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,950만원",
+    "year": "23년 6월식(24년형)",
+    "mileage": "7,500km",
+    "fuel": "가솔린",
+    "center": "대구반야월직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61393137",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;제조사AS",
+      "mfgDt": "202306",
+      "prc": "4950",
+      "milg": "7500"
+    },
+    "firstRegistrationDate": "23년 6월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 8,
+    "carCd": "61403749",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
+    "price": "4,860만원",
+    "year": "24년 4월식(25년형)",
+    "mileage": "15,005km",
+    "fuel": "가솔린",
+    "center": "포천직영점",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "신차급"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61403749",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;짧은 Km;신차급",
+      "mfgDt": "202404",
+      "prc": "4860",
+      "milg": "15005"
+    },
+    "firstRegistrationDate": "24년 4월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 892,487원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 9,
+    "carCd": "61331098",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,540만원 4,690만원",
+    "year": "22년 9월식",
+    "mileage": "54,332km",
+    "fuel": "가솔린",
+    "center": "원주직영점",
+    "labels": [
+      "1인소유",
+      "제조사AS",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61331098",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;제조사AS;베이지시트",
+      "mfgDt": "202209",
+      "prc": "4690",
+      "milg": "54332"
+    },
+    "firstRegistrationDate": "22년 9월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "없는 [ 1인소유 ] 차량 !",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,279,138원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 10,
+    "carCd": "61387415",
+    "title": "제네시스 G80 (RG3) 디젤 2.2 AWD",
+    "price": "4,640만원",
+    "year": "21년 3월식",
+    "mileage": "70,532km",
+    "fuel": "디젤",
+    "center": "수원신갈직영점",
+    "labels": [],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61387415",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "",
+      "mfgDt": "202103",
+      "prc": "4640",
+      "milg": "70532"
+    },
+    "firstRegistrationDate": "21년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 1,364,788원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 11,
+    "carCd": "61386320",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,520만원",
+    "year": "23년 6월식(24년형)",
+    "mileage": "62,022km",
+    "fuel": "가솔린",
+    "center": "강서직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61386320",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;제조사AS",
+      "mfgDt": "202306",
+      "prc": "4520",
+      "milg": "62022"
+    },
+    "firstRegistrationDate": "23년 6월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 12,
+    "carCd": "61369250",
+    "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+    "price": "4,490만원",
+    "year": "24년 4월식(25년형)",
+    "mileage": "77,012km",
+    "fuel": "가솔린",
+    "center": "광주수완직영점",
+    "labels": [],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61369250",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "",
+      "mfgDt": "202404",
+      "prc": "4490",
+      "milg": "77012"
+    },
+    "firstRegistrationDate": "24년 4월식(25년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 13,
+    "carCd": "61375087",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,450만원",
+    "year": "23년 3월식",
+    "mileage": "45,978km",
+    "fuel": "가솔린",
+    "center": "김포직영점",
+    "labels": [
+      "특옵션",
+      "제조사AS",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61375087",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;제조사AS;주행보조",
+      "mfgDt": "202303",
+      "prc": "4450",
+      "milg": "45978"
+    },
+    "firstRegistrationDate": "23년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 14,
+    "carCd": "61376714",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,410만원",
+    "year": "23년 2월식",
+    "mileage": "27,208km",
+    "fuel": "가솔린",
+    "center": "김포공항직영점",
+    "labels": [
+      "1인소유",
+      "짧은 Km",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376714",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "1인소유;짧은 Km;제조사AS",
+      "mfgDt": "202302",
+      "prc": "4410",
+      "milg": "27208"
+    },
+    "firstRegistrationDate": "23년 2월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 779,910원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 15,
+    "carCd": "61389214",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+    "price": "4,390만원",
+    "year": "23년 5월식",
+    "mileage": "44,260km",
+    "fuel": "가솔린",
+    "center": "용인직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389214",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;1인소유;보험이력없음",
+      "mfgDt": "202305",
+      "prc": "4390",
+      "milg": "44260"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "리콜필요 (1건)",
+    "passed": false,
+    "needsReview": true,
+    "failures": [],
+    "unknowns": [
+      "주의 이력 확인 불가"
+    ]
+  },
+  {
+    "listRank": 16,
+    "carCd": "61392475",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,380만원",
+    "year": "23년 8월식(24년형)",
+    "mileage": "48,195km",
+    "fuel": "가솔린",
+    "center": "대전직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392475",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;짧은 Km",
+      "mfgDt": "202308",
+      "prc": "4380",
+      "milg": "48195"
+    },
+    "firstRegistrationDate": "23년 8월식(24년형)",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 17,
+    "carCd": "61383974",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+    "price": "4,370만원",
+    "year": "23년 5월식",
+    "mileage": "44,843km",
+    "fuel": "가솔린",
+    "center": "광명직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "짧은 Km"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61383974",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;1인소유;짧은 Km",
+      "mfgDt": "202305",
+      "prc": "4370",
+      "milg": "44843"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 18,
+    "carCd": "61382973",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,350만원",
+    "year": "22년 7월식",
+    "mileage": "82,045km",
+    "fuel": "가솔린",
+    "center": "수원직영점",
+    "labels": [
+      "제조사AS",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61382973",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "제조사AS;브라운시트",
+      "mfgDt": "202207",
+      "prc": "4350",
+      "milg": "82045"
+    },
+    "firstRegistrationDate": "22년 7월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 19,
+    "carCd": "61392482",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 2WD",
+    "price": "4,290만원",
+    "year": "23년 1월식",
+    "mileage": "28,721km",
+    "fuel": "가솔린",
+    "center": "서초직영점",
+    "labels": [
+      "제조사AS",
+      "보험이력없음",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392482",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "제조사AS;보험이력없음;브라운시트",
+      "mfgDt": "202301",
+      "prc": "4290",
+      "milg": "28721"
+    },
+    "firstRegistrationDate": "23년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 20,
+    "carCd": "61376726",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,250만원",
+    "year": "23년 2월식",
+    "mileage": "40,165km",
+    "fuel": "가솔린",
+    "center": "안산직영점",
+    "labels": [
+      "특옵션",
+      "4WD",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61376726",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;4WD;제조사AS",
+      "mfgDt": "202302",
+      "prc": "4250",
+      "milg": "40165"
+    },
+    "firstRegistrationDate": "23년 2월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 3,854,019원 (2건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "무사고 아님"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 21,
+    "carCd": "61392660",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,250만원",
+    "year": "23년 6월식(24년형)",
+    "mileage": "23,307km",
+    "fuel": "가솔린",
+    "center": "울산직영점",
+    "labels": [
+      "특옵션",
+      "짧은 Km",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392660",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;짧은 Km;브라운시트",
+      "mfgDt": "202306",
+      "prc": "4250",
+      "milg": "23307"
+    },
+    "firstRegistrationDate": "23년 6월식(24년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "없음",
+    "warningHistory": "없음",
+    "passed": true,
+    "needsReview": false,
+    "failures": [],
+    "unknowns": []
+  },
+  {
+    "listRank": 22,
+    "carCd": "61383999",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,240만원",
+    "year": "23년 6월식",
+    "mileage": "80,140km",
+    "fuel": "가솔린",
+    "center": "포항직영점",
+    "labels": [
+      "특옵션",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61383999",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;제조사AS",
+      "mfgDt": "202306",
+      "prc": "4240",
+      "milg": "80140"
+    },
+    "firstRegistrationDate": "23년 6월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 3회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,333,653원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 23,
+    "carCd": "61389870",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,240만원",
+    "year": "22년 4월식",
+    "mileage": "58,626km",
+    "fuel": "가솔린",
+    "center": "포항직영점",
+    "labels": [
+      "특옵션",
+      "제조사AS",
+      "보험이력없음"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389870",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "특옵션;제조사AS;보험이력없음",
+      "mfgDt": "202204",
+      "prc": "4240",
+      "milg": "58626"
+    },
+    "firstRegistrationDate": "22년 4월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "없음",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 24,
+    "carCd": "61399189",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,240만원",
+    "year": "22년 12월식(23년형)",
+    "mileage": "48,835km",
+    "fuel": "가솔린",
+    "center": "창원마산직영점",
+    "labels": [
+      "특옵션",
+      "1인소유",
+      "제조사AS"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61399189",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;1인소유;제조사AS",
+      "mfgDt": "202212",
+      "prc": "4240",
+      "milg": "48835"
+    },
+    "firstRegistrationDate": "22년 12월식(23년형)",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 2회",
+    "rentHistory": "없음",
+    "ownDamage": "총 2,285,680원 (5건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 25,
+    "carCd": "61364038",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,100만원 4,190만원",
+    "year": "23년 3월식",
+    "mileage": "68,373km",
+    "fuel": "가솔린",
+    "center": "인천직영점",
+    "labels": [
+      "특옵션",
+      "제조사AS",
+      "베이지시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61364038",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;제조사AS;베이지시트",
+      "mfgDt": "202303",
+      "prc": "4190",
+      "milg": "68373"
+    },
+    "firstRegistrationDate": "23년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 550,232원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 26,
+    "carCd": "61395591",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+    "price": "4,160만원",
+    "year": "22년 1월식",
+    "mileage": "54,034km",
+    "fuel": "가솔린",
+    "center": "광주수완직영점",
+    "labels": [
+      "특옵션",
+      "주행보조"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61395591",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;주행보조",
+      "mfgDt": "202201",
+      "prc": "4160",
+      "milg": "54034"
+    },
+    "firstRegistrationDate": "22년 1월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "없음",
+    "ownDamage": "총 1,281,809원 (1건)",
+    "warningHistory": "없음",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 27,
+    "carCd": "61392461",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+    "price": "4,150만원",
+    "year": "23년 5월식",
+    "mileage": "80,262km",
+    "fuel": "가솔린",
+    "center": "대구직영점",
+    "labels": [
+      "특옵션",
+      "4WD"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392461",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;4WD",
+      "mfgDt": "202305",
+      "prc": "4150",
+      "milg": "80262"
+    },
+    "firstRegistrationDate": "23년 5월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 540,920원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 28,
+    "carCd": "61392471",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,130만원",
+    "year": "23년 1월식",
+    "mileage": "30,852km",
+    "fuel": "가솔린",
+    "center": "광주풍암직영점",
+    "labels": [
+      "4WD",
+      "주행보조",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61392471",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "4WD;주행보조;브라운시트",
+      "mfgDt": "202301",
+      "prc": "4130",
+      "milg": "30852"
+    },
+    "firstRegistrationDate": "23년 1월식",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 2,754,962원 (1건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 29,
+    "carCd": "61387688",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 2.5 AWD",
+    "price": "4,120만원",
+    "year": "21년 7월식(22년형)",
+    "mileage": "71,932km",
+    "fuel": "가솔린",
+    "center": "수원직영점",
+    "labels": [
+      "4WD"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61387688",
+    "api": {
+      "acdtHistCnts": "단순수리",
+      "acdtHistCd": "100",
+      "hotmarkNm": "4WD",
+      "mfgDt": "202107",
+      "prc": "4120",
+      "milg": "71932"
+    },
+    "firstRegistrationDate": "21년 7월식(22년형)",
+    "accidentHistory": "단순수리",
+    "ownerHistory": "총 2회",
+    "rentHistory": "있음",
+    "ownDamage": "총 2,691,667원 (3건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "무사고 아님",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  },
+  {
+    "listRank": 30,
+    "carCd": "61404217",
+    "title": "제네시스 G80 (RG3) 가솔린 터보 3.5 AWD",
+    "price": "4,090만원",
+    "year": "22년 3월식",
+    "mileage": "68,189km",
+    "fuel": "가솔린",
+    "center": "대전직영점",
+    "labels": [
+      "특옵션",
+      "브라운시트"
+    ],
+    "listUrl": "https://m.kcar.com/bc/search/CarList?searchCond=%7B%22wr_txt_idx%22%3A%22g80%20(RG3)%22%2C%22pageno%22%3A1%2C%22orderFlag%22%3Atrue%2C%22orderBy%22%3A%22prc%3Adesc%22%7D",
+    "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61404217",
+    "api": {
+      "acdtHistCnts": "무사고",
+      "acdtHistCd": "300",
+      "hotmarkNm": "특옵션;브라운시트",
+      "mfgDt": "202203",
+      "prc": "4090",
+      "milg": "68189"
+    },
+    "firstRegistrationDate": "22년 3월식",
+    "accidentHistory": "무사고",
+    "ownerHistory": "총 1회",
+    "rentHistory": "있음",
+    "ownDamage": "총 918,526원 (2건)",
+    "warningHistory": "특수용도 (대여)",
+    "passed": false,
+    "needsReview": false,
+    "failures": [
+      "2023년 1월 이전 차량",
+      "내차 피해 있음",
+      "주의 이력 있음",
+      "렌트 이력 있음"
+    ],
+    "unknowns": []
+  }
+]
