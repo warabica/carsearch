@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Carsearch</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">K Car 모바일 검색</p>
+          <h1>중고차 후보 조회</h1>
+        </div>
+        <div class="header-right">
+          <div class="metric">
+            <span id="matchedCount">-</span>
+            <small>후보</small>
+          </div>
+          <p class="updated-at" id="updatedAt">최근 검색: -</p>
+        </div>
+      </header>
+
+      <section class="toolbar" aria-label="모델 선택">
+        <button class="model-button active" data-model="G80" type="button">G80</button>
+        <button class="model-button" data-model="GV80" type="button">GV80</button>
+        <button class="model-button" data-model="GV70" type="button">GV70</button>
+      </section>
+
+      <section class="summary" aria-live="polite">
+        <div>
+          <span class="label">선택 모델</span>
+          <strong id="modelName">G80</strong>
+        </div>
+        <div>
+          <span class="label">조회 범위</span>
+          <strong>높은 가격순 첫 페이지</strong>
+        </div>
+        <div>
+          <span class="label">스캔 차량</span>
+          <strong id="scannedCount">-</strong>
+        </div>
+        <div>
+          <span class="label">결과 파일</span>
+          <strong id="reportFile">-</strong>
+        </div>
+      </section>
+
+      <section class="content">
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>조건 통과 차량</h2>
+            <span id="statusText">G80 결과를 불러오는 중</span>
+          </div>
+          <div id="candidateList" class="car-list"></div>
+        </div>
+
+        <aside class="panel side">
+          <div class="panel-heading">
+            <h2>탈락 사유</h2>
+          </div>
+          <div id="failureSummary" class="reason-list"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
