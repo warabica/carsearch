@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20261017-143804.json",
-  "generatedAt": "2026-10-17T05:38:04.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20261018-150447.json",
+  "generatedAt": "2026-10-18T06:04:47.000Z",
   "scanned": 30,
   "matched": 15,
   "candidates": [
@@ -24,7 +24,7 @@
       "unknowns": []
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "61418743",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "6,150만원",
@@ -66,7 +66,7 @@
       "mileage": "14,059km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61416241",
@@ -117,7 +117,7 @@
       "mileage": "18,567km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61426993",
@@ -323,6 +323,23 @@
     },
     {
       "rank": 4,
+      "id": "61418743",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
+      "price": "6,150만원",
+      "year": "25년 2월식",
+      "mileage": "9,120km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418743",
+      "passed": true,
+      "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 5,
       "id": "61426618",
       "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
       "price": "6,150만원",
@@ -339,23 +356,6 @@
         "2023년 1월 이전 차량",
         "내차 피해 있음"
       ],
-      "unknowns": []
-    },
-    {
-      "rank": 5,
-      "id": "61418743",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
-      "price": "6,150만원",
-      "year": "25년 2월식",
-      "mileage": "9,120km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418743",
-      "passed": true,
-      "failures": [],
       "unknowns": []
     },
     {
@@ -384,7 +384,7 @@
       "mileage": "14,059km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61416241",
@@ -475,7 +475,7 @@
       "mileage": "18,567km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61426993",
@@ -690,6 +690,25 @@
     },
     {
       "rank": 24,
+      "id": "61418904",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+      "price": "5,290만원",
+      "year": "24년 2월식(25년형)",
+      "mileage": "20,878km",
+      "accident": "무사고",
+      "ownDamage": "총 2,521,376원 (1건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418904",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 25,
       "id": "61416787",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 3.5 4WD",
       "price": "5,290만원",
@@ -705,25 +724,6 @@
       "failures": [
         "주의 이력 있음",
         "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 25,
-      "id": "61418904",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
-      "price": "5,290만원",
-      "year": "24년 2월식(25년형)",
-      "mileage": "20,878km",
-      "accident": "무사고",
-      "ownDamage": "총 2,521,376원 (1건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418904",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음"
       ],
       "unknowns": []
     },
