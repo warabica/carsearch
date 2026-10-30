@@ -1,8 +1,8 @@
 {
   "model": "GV80",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv80-all-20261029-175534.json",
-  "generatedAt": "2026-10-29T08:55:34.000Z",
+  "reportFile": "kcar-mobile-gv80-all-20261030-173349.json",
+  "generatedAt": "2026-10-30T08:33:49.000Z",
   "scanned": 30,
   "matched": 0,
   "candidates": [],
@@ -113,47 +113,6 @@
     },
     {
       "rank": 6,
-      "id": "61389086",
-      "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
-      "price": "4,920만원",
-      "year": "23년 5월식",
-      "mileage": "39,461km",
-      "accident": "무사고",
-      "ownDamage": "총 604,529원 (1건)",
-      "owner": "총 1회",
-      "warning": "특수용도 (대여)",
-      "rent": "있음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389086",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "주의 이력 있음",
-        "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 7,
-      "id": "61412102",
-      "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
-      "price": "4,890만원",
-      "year": "23년 4월식",
-      "mileage": "63,128km",
-      "accident": "단순수리",
-      "ownDamage": "총 1,033,765원 (1건)",
-      "owner": "총 5회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61412102",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 8,
       "id": "61416509",
       "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
       "price": "4,890만원",
@@ -161,7 +120,7 @@
       "mileage": "59,056km",
       "accident": "무사고",
       "ownDamage": "총 5,357,810원 (2건)",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61416509",
@@ -172,7 +131,7 @@
       "unknowns": []
     },
     {
-      "rank": 9,
+      "rank": 7,
       "id": "61417164",
       "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
       "price": "4,890만원",
@@ -192,7 +151,27 @@
       "unknowns": []
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "id": "61412102",
+      "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
+      "price": "4,890만원",
+      "year": "23년 4월식",
+      "mileage": "63,128km",
+      "accident": "단순수리",
+      "ownDamage": "총 1,033,765원 (1건)",
+      "owner": "총 5회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61412102",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음",
+        "무사고 아님"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 9,
       "id": "61414699",
       "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
       "price": "4,870만원",
@@ -211,7 +190,7 @@
       "unknowns": []
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "61409038",
       "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
       "price": "4,820만원",
@@ -228,6 +207,27 @@
         "내차 피해 있음"
       ],
       "unknowns": []
+    },
+    {
+      "rank": 11,
+      "id": "61431623",
+      "title": "제네시스 GV80 가솔린 3.5 2WD (5인승)",
+      "price": "4,790만원",
+      "year": "23년 7월식",
+      "mileage": "29,288km",
+      "accident": "무사고",
+      "ownDamage": "총 1,177,384원 (1건)",
+      "owner": "없는 1인 소유 차량!!",
+      "warning": "리콜필요 (1건)",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61431623",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": [
+        "주의 이력 확인 불가"
+      ]
     },
     {
       "rank": 12,
@@ -250,24 +250,24 @@
     },
     {
       "rank": 13,
-      "id": "61431623",
-      "title": "제네시스 GV80 가솔린 3.5 2WD (5인승)",
-      "price": "4,790만원",
-      "year": "23년 7월식",
-      "mileage": "29,288km",
+      "id": "61389086",
+      "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
+      "price": "4,780만원",
+      "year": "23년 5월식",
+      "mileage": "39,461km",
       "accident": "무사고",
-      "ownDamage": "총 1,177,384원 (1건)",
-      "owner": "없는 1인 소유 차량!!",
-      "warning": "리콜필요 (1건)",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61431623",
+      "ownDamage": "총 604,529원 (1건)",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61389086",
       "passed": false,
       "failures": [
-        "내차 피해 있음"
+        "내차 피해 있음",
+        "주의 이력 있음",
+        "렌트 이력 있음"
       ],
-      "unknowns": [
-        "주의 이력 확인 불가"
-      ]
+      "unknowns": []
     },
     {
       "rank": 14,
@@ -311,6 +311,25 @@
     },
     {
       "rank": 16,
+      "id": "61428253",
+      "title": "제네시스 GV80 가솔린 2.5 2WD (7인승)",
+      "price": "4,590만원",
+      "year": "21년 12월식(22년형)",
+      "mileage": "28,449km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 2회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61428253",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 17,
       "id": "61415948",
       "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
       "price": "4,590만원",
@@ -327,25 +346,6 @@
         "2023년 1월 이전 차량",
         "주의 이력 있음",
         "렌트 이력 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 17,
-      "id": "61428253",
-      "title": "제네시스 GV80 가솔린 2.5 2WD (7인승)",
-      "price": "4,590만원",
-      "year": "21년 12월식(22년형)",
-      "mileage": "28,449km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 2회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61428253",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량"
       ],
       "unknowns": []
     },
@@ -431,25 +431,6 @@
     },
     {
       "rank": 22,
-      "id": "61419898",
-      "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
-      "price": "4,490만원",
-      "year": "22년 4월식",
-      "mileage": "62,212km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61419898",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 23,
       "id": "61371942",
       "title": "제네시스 GV80 디젤 3.0 AWD (7인승)",
       "price": "4,490만원",
@@ -470,48 +451,7 @@
       "unknowns": []
     },
     {
-      "rank": 24,
-      "id": "61416848",
-      "title": "제네시스 GV80 가솔린 2.5 AWD (7인승)",
-      "price": "4,480만원",
-      "year": "21년 7월식",
-      "mileage": "46,102km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61416848",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 25,
-      "id": "61425504",
-      "title": "제네시스 GV80 가솔린 3.5 AWD (5인승)",
-      "price": "4,480만원",
-      "year": "22년 6월식",
-      "mileage": "37,254km",
-      "accident": "무사고",
-      "ownDamage": "총 1,542,967원 (1건)",
-      "owner": "총 2회",
-      "warning": "리콜필요 (1건)",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61425504",
-      "passed": false,
-      "failures": [
-        "2023년 1월 이전 차량",
-        "내차 피해 있음"
-      ],
-      "unknowns": [
-        "주의 이력 확인 불가"
-      ]
-    },
-    {
-      "rank": 26,
+      "rank": 23,
       "id": "61429588",
       "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
       "price": "4,480만원",
@@ -533,7 +473,29 @@
       "unknowns": []
     },
     {
-      "rank": 27,
+      "rank": 24,
+      "id": "61425504",
+      "title": "제네시스 GV80 가솔린 3.5 AWD (5인승)",
+      "price": "4,480만원",
+      "year": "22년 6월식",
+      "mileage": "37,254km",
+      "accident": "무사고",
+      "ownDamage": "총 1,542,967원 (1건)",
+      "owner": "총 2회",
+      "warning": "리콜필요 (1건)",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61425504",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량",
+        "내차 피해 있음"
+      ],
+      "unknowns": [
+        "주의 이력 확인 불가"
+      ]
+    },
+    {
+      "rank": 25,
       "id": "61418065",
       "title": "제네시스 GV80 가솔린 3.5 AWD (5인승)",
       "price": "4,460만원",
@@ -556,7 +518,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 26,
       "id": "61424946",
       "title": "제네시스 GV80 가솔린 2.5 AWD (7인승)",
       "price": "4,450만원",
@@ -575,7 +537,26 @@
       "unknowns": []
     },
     {
-      "rank": 29,
+      "rank": 27,
+      "id": "61419898",
+      "title": "제네시스 GV80 디젤 3.0 AWD (5인승)",
+      "price": "4,450만원",
+      "year": "22년 4월식",
+      "mileage": "62,212km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61419898",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 28,
       "id": "61417452",
       "title": "제네시스 GV80 가솔린 2.5 AWD (7인승)",
       "price": "4,440만원",
@@ -590,6 +571,27 @@
       "passed": false,
       "failures": [
         "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 29,
+      "id": "61400808",
+      "title": "제네시스 GV80 가솔린 2.5 AWD (5인승)",
+      "price": "4,400만원",
+      "year": "22년 3월식",
+      "mileage": "24,764km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61400808",
+      "passed": false,
+      "failures": [
+        "2023년 1월 이전 차량",
+        "주의 이력 있음",
+        "렌트 이력 있음"
       ],
       "unknowns": []
     },
@@ -616,8 +618,8 @@
   ],
   "failureSummary": {
     "2023년 1월 이전 차량": 14,
-    "주의 이력 있음": 10,
-    "렌트 이력 있음": 10,
+    "주의 이력 있음": 11,
+    "렌트 이력 있음": 11,
     "내차 피해 있음": 15,
     "주의 이력 확인 불가": 6,
     "무사고 아님": 6
