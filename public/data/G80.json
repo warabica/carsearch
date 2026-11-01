@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20261031-163041.json",
-  "generatedAt": "2026-10-31T07:30:41.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20261101-172528.json",
+  "generatedAt": "2026-11-01T08:25:28.000Z",
   "scanned": 30,
   "matched": 17,
   "candidates": [
@@ -109,7 +109,7 @@
       "unknowns": []
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "61415560",
       "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
       "price": "5,670만원",
@@ -126,7 +126,7 @@
       "unknowns": []
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "61426993",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,570만원",
@@ -464,6 +464,23 @@
     },
     {
       "rank": 10,
+      "id": "61415560",
+      "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
+      "price": "5,670만원",
+      "year": "23년 8월식",
+      "mileage": "76,995km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61415560",
+      "passed": true,
+      "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 11,
       "id": "61422654",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,670만원",
@@ -483,44 +500,7 @@
       "unknowns": []
     },
     {
-      "rank": 11,
-      "id": "61415560",
-      "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
-      "price": "5,670만원",
-      "year": "23년 8월식",
-      "mileage": "76,995km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61415560",
-      "passed": true,
-      "failures": [],
-      "unknowns": []
-    },
-    {
       "rank": 12,
-      "id": "61412159",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
-      "price": "5,580만원",
-      "year": "24년 12월식(25년형)",
-      "mileage": "29,033km",
-      "accident": "단순수리",
-      "ownDamage": "총 406,189원 (1건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61412159",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 13,
       "id": "61426993",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,570만원",
@@ -537,27 +517,27 @@
       "unknowns": []
     },
     {
-      "rank": 14,
-      "id": "61421152",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
-      "price": "5,420만원",
-      "year": "24년 9월식(25년형)",
-      "mileage": "22,219km",
-      "accident": "무사고",
-      "ownDamage": "없음",
+      "rank": 13,
+      "id": "61412159",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
+      "price": "5,530만원",
+      "year": "24년 12월식(25년형)",
+      "mileage": "29,033km",
+      "accident": "단순수리",
+      "ownDamage": "총 406,189원 (1건)",
       "owner": "총 1회",
-      "warning": "특수용도 (대여)",
-      "rent": "있음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421152",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61412159",
       "passed": false,
       "failures": [
-        "주의 이력 있음",
-        "렌트 이력 있음"
+        "내차 피해 있음",
+        "무사고 아님"
       ],
       "unknowns": []
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "61421080",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,420만원",
@@ -572,6 +552,26 @@
       "passed": false,
       "failures": [
         "내차 피해 있음",
+        "주의 이력 있음",
+        "렌트 이력 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 15,
+      "id": "61421152",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+      "price": "5,420만원",
+      "year": "24년 9월식(25년형)",
+      "mileage": "22,219km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 1회",
+      "warning": "특수용도 (대여)",
+      "rent": "있음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421152",
+      "passed": false,
+      "failures": [
         "주의 이력 있음",
         "렌트 이력 있음"
       ],

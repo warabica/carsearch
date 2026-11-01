@@ -1,8 +1,8 @@
 {
   "model": "GV70",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv70-all-20261031-164725.json",
-  "generatedAt": "2026-10-31T07:47:25.000Z",
+  "reportFile": "kcar-mobile-gv70-all-20261101-174205.json",
+  "generatedAt": "2026-11-01T08:42:05.000Z",
   "scanned": 30,
   "matched": 7,
   "candidates": [
@@ -75,7 +75,7 @@
       "unknowns": []
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "61414841",
       "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
       "price": "4,350만원",
@@ -258,6 +258,23 @@
     },
     {
       "rank": 8,
+      "id": "61414841",
+      "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
+      "price": "4,350만원",
+      "year": "23년 6월식",
+      "mileage": "35,752km",
+      "accident": "무사고",
+      "ownDamage": "없음",
+      "owner": "총 4회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61414841",
+      "passed": true,
+      "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 9,
       "id": "61425009",
       "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
       "price": "4,350만원",
@@ -274,23 +291,6 @@
         "주의 이력 있음",
         "렌트 이력 있음"
       ],
-      "unknowns": []
-    },
-    {
-      "rank": 9,
-      "id": "61414841",
-      "title": "제네시스 GV70 가솔린 터보 2.5 2WD",
-      "price": "4,350만원",
-      "year": "23년 6월식",
-      "mileage": "35,752km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 4회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61414841",
-      "passed": true,
-      "failures": [],
       "unknowns": []
     },
     {
