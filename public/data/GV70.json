@@ -1,8 +1,8 @@
 {
   "model": "GV70",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv70-all-20261106-185849.json",
-  "generatedAt": "2026-11-06T09:58:49.000Z",
+  "reportFile": "kcar-mobile-gv70-all-20261107-172654.json",
+  "generatedAt": "2026-11-07T08:26:54.000Z",
   "scanned": 30,
   "matched": 8,
   "candidates": [
@@ -15,7 +15,7 @@
       "mileage": "37,975km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61434539",
@@ -75,7 +75,7 @@
       "unknowns": []
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "61425424",
       "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
       "price": "4,430만원",
@@ -153,7 +153,7 @@
       "mileage": "37,975km",
       "accident": "무사고",
       "ownDamage": "없음",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61434539",
@@ -273,26 +273,6 @@
     },
     {
       "rank": 8,
-      "id": "61421845",
-      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 2WD",
-      "price": "4,450만원",
-      "year": "24년 1월식",
-      "mileage": "31,345km",
-      "accident": "단순수리",
-      "ownDamage": "총 1,636,064원 (2건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421845",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음",
-        "무사고 아님"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 9,
       "id": "61425424",
       "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 AWD",
       "price": "4,430만원",
@@ -306,6 +286,26 @@
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61425424",
       "passed": true,
       "failures": [],
+      "unknowns": []
+    },
+    {
+      "rank": 9,
+      "id": "61421845",
+      "title": "제네시스 GV70 가솔린 터보 2.5 스포츠 2WD",
+      "price": "4,420만원",
+      "year": "24년 1월식",
+      "mileage": "31,345km",
+      "accident": "단순수리",
+      "ownDamage": "총 1,636,064원 (2건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421845",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음",
+        "무사고 아님"
+      ],
       "unknowns": []
     },
     {

@@ -1,8 +1,8 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20261106-184201.json",
-  "generatedAt": "2026-11-06T09:42:01.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20261107-170958.json",
+  "generatedAt": "2026-11-07T08:09:58.000Z",
   "scanned": 30,
   "matched": 16,
   "candidates": [
@@ -44,7 +44,7 @@
       "rank": 5,
       "id": "61418743",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
-      "price": "6,060만원",
+      "price": "6,030만원",
       "year": "25년 2월식",
       "mileage": "9,120km",
       "accident": "무사고",
@@ -359,7 +359,7 @@
       "rank": 5,
       "id": "61418743",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
-      "price": "6,060만원",
+      "price": "6,030만원",
       "year": "25년 2월식",
       "mileage": "9,120km",
       "accident": "무사고",
