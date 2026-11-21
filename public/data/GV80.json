@@ -1,8 +1,8 @@
 {
   "model": "GV80",
   "status": "ready",
-  "reportFile": "kcar-mobile-gv80-all-20261120-193500.json",
-  "generatedAt": "2026-11-20T10:35:00.000Z",
+  "reportFile": "kcar-mobile-gv80-all-20261121-183615.json",
+  "generatedAt": "2026-11-21T09:36:15.000Z",
   "scanned": 30,
   "matched": 1,
   "candidates": [
@@ -279,7 +279,7 @@
       "mileage": "66,218km",
       "accident": "단순수리",
       "ownDamage": "총 2,151,239원 (1건)",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61439918",
