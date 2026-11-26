@@ -1,10 +1,10 @@
 {
   "model": "G80",
   "status": "ready",
-  "reportFile": "kcar-mobile-g80-rg3-all-20261125-205249.json",
-  "generatedAt": "2026-11-25T11:52:49.000Z",
+  "reportFile": "kcar-mobile-g80-rg3-all-20261126-204410.json",
+  "generatedAt": "2026-11-26T11:44:10.000Z",
   "scanned": 30,
-  "matched": 15,
+  "matched": 13,
   "candidates": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
       "unknowns": []
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "61418743",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "5,820만원 5,950만원",
@@ -58,7 +58,7 @@
       "unknowns": []
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "61411708",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "5,590만원 5,760만원",
@@ -75,7 +75,7 @@
       "unknowns": []
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "61443424",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,440만원",
@@ -92,7 +92,7 @@
       "unknowns": []
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": "61403963",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "4,920만원 5,400만원",
@@ -109,7 +109,7 @@
       "unknowns": []
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "61426993",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,380만원",
@@ -177,41 +177,7 @@
       "unknowns": []
     },
     {
-      "rank": 22,
-      "id": "61424348",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 3.5 4WD",
-      "price": "5,190만원",
-      "year": "24년 3월식(25년형)",
-      "mileage": "36,630km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61424348",
-      "passed": true,
-      "failures": [],
-      "unknowns": []
-    },
-    {
-      "rank": 24,
-      "id": "61421489",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
-      "price": "5,090만원",
-      "year": "24년 7월식(25년형)",
-      "mileage": "26,292km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421489",
-      "passed": true,
-      "failures": [],
-      "unknowns": []
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "id": "61439929",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,050만원",
@@ -228,7 +194,7 @@
       "unknowns": []
     },
     {
-      "rank": 28,
+      "rank": 26,
       "id": "61403596",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "4,970만원",
@@ -245,7 +211,7 @@
       "unknowns": []
     },
     {
-      "rank": 30,
+      "rank": 28,
       "id": "61418026",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "4,950만원",
@@ -299,27 +265,6 @@
     },
     {
       "rank": 3,
-      "id": "61421445",
-      "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
-      "price": "5,990만원 6,100만원",
-      "year": "23년 3월식",
-      "mileage": "44,943km",
-      "accident": "무사고",
-      "ownDamage": "총 1,959,043원 (2건)",
-      "owner": "총 1회",
-      "warning": "리콜필요 (2건)",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421445",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음"
-      ],
-      "unknowns": [
-        "주의 이력 확인 불가"
-      ]
-    },
-    {
-      "rank": 4,
       "id": "61437371",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "6,090만원",
@@ -338,7 +283,7 @@
       "unknowns": []
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "61418743",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "5,820만원 5,950만원",
@@ -355,7 +300,7 @@
       "unknowns": []
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "61426618",
       "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
       "price": "5,800만원 5,920만원",
@@ -377,7 +322,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "61434536",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "5,850만원",
@@ -397,7 +342,7 @@
       "unknowns": []
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "61411708",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 스포츠 패키지 4WD",
       "price": "5,590만원 5,760만원",
@@ -414,7 +359,7 @@
       "unknowns": []
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "61443375",
       "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
       "price": "5,620만원",
@@ -433,7 +378,7 @@
       "unknowns": []
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "61422654",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,350만원 5,490만원",
@@ -453,7 +398,7 @@
       "unknowns": []
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "61443424",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,440만원",
@@ -470,7 +415,7 @@
       "unknowns": []
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": "61403963",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "4,920만원 5,400만원",
@@ -487,7 +432,7 @@
       "unknowns": []
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "61426993",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,380만원",
@@ -504,7 +449,7 @@
       "unknowns": []
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "61421152",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,370만원",
@@ -524,7 +469,7 @@
       "unknowns": []
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "61420822",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "5,170만원 5,350만원",
@@ -536,6 +481,25 @@
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61420822",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 15,
+      "id": "61444638",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+      "price": "5,350만원",
+      "year": "24년 11월식(25년형)",
+      "mileage": "48,897km",
+      "accident": "무사고",
+      "ownDamage": "총 4,799,320원 (3건)",
+      "owner": "총 0회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61444638",
       "passed": false,
       "failures": [
         "내차 피해 있음"
@@ -643,7 +607,7 @@
       "mileage": "45,082km",
       "accident": "무사고",
       "ownDamage": "총 2,897,793원 (3건)",
-      "owner": "총 0회",
+      "owner": "총 1회",
       "warning": "없음",
       "rent": "없음",
       "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61444367",
@@ -655,23 +619,6 @@
     },
     {
       "rank": 22,
-      "id": "61424348",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 3.5 4WD",
-      "price": "5,190만원",
-      "year": "24년 3월식(25년형)",
-      "mileage": "36,630km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61424348",
-      "passed": true,
-      "failures": [],
-      "unknowns": []
-    },
-    {
-      "rank": 23,
       "id": "61439525",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,000만원 5,110만원",
@@ -691,24 +638,7 @@
       "unknowns": []
     },
     {
-      "rank": 24,
-      "id": "61421489",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
-      "price": "5,090만원",
-      "year": "24년 7월식(25년형)",
-      "mileage": "26,292km",
-      "accident": "무사고",
-      "ownDamage": "없음",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61421489",
-      "passed": true,
-      "failures": [],
-      "unknowns": []
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "id": "61439929",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "5,050만원",
@@ -725,26 +655,7 @@
       "unknowns": []
     },
     {
-      "rank": 26,
-      "id": "61418904",
-      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
-      "price": "5,030만원",
-      "year": "24년 2월식(25년형)",
-      "mileage": "20,878km",
-      "accident": "무사고",
-      "ownDamage": "총 2,521,376원 (1건)",
-      "owner": "총 1회",
-      "warning": "없음",
-      "rent": "없음",
-      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418904",
-      "passed": false,
-      "failures": [
-        "내차 피해 있음"
-      ],
-      "unknowns": []
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "id": "61430132",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "4,950만원 5,030만원",
@@ -765,7 +676,26 @@
       "unknowns": []
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "id": "61418904",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+      "price": "4,980만원",
+      "year": "24년 2월식(25년형)",
+      "mileage": "20,878km",
+      "accident": "무사고",
+      "ownDamage": "총 2,521,376원 (1건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61418904",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 26,
       "id": "61403596",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
       "price": "4,970만원",
@@ -782,7 +712,7 @@
       "unknowns": []
     },
     {
-      "rank": 29,
+      "rank": 27,
       "id": "61434578",
       "title": "제네시스 G80 (RG3) 일렉트리파이드 e-AWD ",
       "price": "4,960만원",
@@ -803,7 +733,7 @@
       "unknowns": []
     },
     {
-      "rank": 30,
+      "rank": 28,
       "id": "61418026",
       "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
       "price": "4,950만원",
@@ -818,12 +748,50 @@
       "passed": true,
       "failures": [],
       "unknowns": []
+    },
+    {
+      "rank": 29,
+      "id": "61420496",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 4WD",
+      "price": "4,790만원 4,940만원",
+      "year": "24년 4월식(25년형)",
+      "mileage": "67,822km",
+      "accident": "무사고",
+      "ownDamage": "총 626,350원 (1건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61420496",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": []
+    },
+    {
+      "rank": 30,
+      "id": "61422717",
+      "title": "제네시스 G80 (RG3 F/L) 가솔린 터보 2.5 2WD",
+      "price": "4,880만원 4,940만원",
+      "year": "24년 9월식(25년형)",
+      "mileage": "12,683km",
+      "accident": "무사고",
+      "ownDamage": "총 480,000원 (1건)",
+      "owner": "총 1회",
+      "warning": "없음",
+      "rent": "없음",
+      "url": "https://m.kcar.com/bc/detail/CarInfoDtl?i_sCarCd=EC61422717",
+      "passed": false,
+      "failures": [
+        "내차 피해 있음"
+      ],
+      "unknowns": []
     }
   ],
   "failureSummary": {
-    "내차 피해 있음": 11,
-    "주의 이력 확인 불가": 2,
+    "내차 피해 있음": 13,
     "2023년 1월 이전 차량": 3,
+    "주의 이력 확인 불가": 1,
     "무사고 아님": 3,
     "주의 이력 있음": 5,
     "렌트 이력 있음": 5
